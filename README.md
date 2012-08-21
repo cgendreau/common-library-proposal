@@ -24,3 +24,4 @@ Initial target:
 
 There is a lot of (existing) ways to process those data, but we need to discuss how we can make them available to all of our projects.
 Again, this is only a proposal, so feel free to share and comment via the GitHub Issue system.
+If you are interested to use or to contribute to this library, please contact @cgendreau.

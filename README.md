@@ -6,7 +6,7 @@ Many organizations need to develop approximately the same kind of software. The 
 benefit form each other's works, and a lot have already been done by some organizations, including GBIF. Let's
 discuss how we can centralized all this work to ease the reuse of the current and future code.
 
-The initial proposal is to create a library for the processing of raw data for an Occurrence Portal.
+The initial proposal is to create a library for the processing of raw data for an Occurrence Portal written in Java.
 
 * This library will not have any link to a specific implementation
 and/or structure.

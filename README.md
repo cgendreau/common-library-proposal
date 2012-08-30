@@ -6,15 +6,15 @@ Many organizations need to develop approximately the same kind of software. The 
 benefit form each other's works, and a lot have already been done by some organizations, including GBIF. Let's
 discuss how we can centralized all this work to ease the reuse of the current and future code.
 
-The initial proposal is to create a library for the processing of raw data for an Occurrence Portal written in Java.
+The initial proposal is to create a library for the processing and the validation of raw data for an Occurrence Portal.
 
 * This library will not have any link to a specific implementation
 and/or structure.
 * This library will offer a way to be extended.
 
 Initial target:
-* Date (including partial date and date range)
-* Country 
+* [Date](https://github.com/cgendreau/common-library-proposal/issues/2) (including partial date and date range)
+* [Country](https://github.com/cgendreau/common-library-proposal/issues/3) 
 * Province by Country
 * Continent
 * Scientific Name

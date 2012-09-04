@@ -15,8 +15,8 @@ and/or structure.
 Initial target:
 * [Date](https://github.com/cgendreau/common-library-proposal/issues/2) (including partial date and date range)
 * [Country](https://github.com/cgendreau/common-library-proposal/issues/3) 
-* Province by Country
-* Continent
+* [Province and State](https://github.com/cgendreau/common-library-proposal/issues/4)
+* [Continent](https://github.com/cgendreau/common-library-proposal/issues/5)
 * Scientific Name
 * Scientific Name authorship
 * Altitude

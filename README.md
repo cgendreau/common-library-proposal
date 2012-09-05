@@ -17,10 +17,9 @@ Initial target:
 * [Country](https://github.com/cgendreau/common-library-proposal/issues/3) 
 * [Province and State](https://github.com/cgendreau/common-library-proposal/issues/4)
 * [Continent](https://github.com/cgendreau/common-library-proposal/issues/5)
-* Scientific Name
-* Scientific Name authorship
-* Altitude
-* Coordinates
+* [Scientific Name](https://github.com/cgendreau/common-library-proposal/issues/6)
+* [Altitude](https://github.com/cgendreau/common-library-proposal/issues/7)
+* [Coordinates](https://github.com/cgendreau/common-library-proposal/issues/8)
 
 There is a lot of (existing) ways to process those data, but we need to discuss how we can make them available to all of our projects.
 Again, this is only a proposal, so feel free to share and comment via the GitHub Issue system.

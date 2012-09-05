@@ -8,9 +8,9 @@ discuss how we can centralized all this work to ease the reuse of the current an
 
 The initial proposal is to create a library for the processing and the validation of raw data for an Occurrence Portal.
 
-* This library will not have any link to a specific implementation
-and/or structure.
-* This library will offer a way to be extended.
+* This library will not have any link to a specific implementation(sophisticated domain model)
+and/or structure. 
+* This library will offer a way to be extended by organizations.
 
 Initial target:
 * [Date](https://github.com/cgendreau/common-library-proposal/issues/2) (including partial date and date range)
